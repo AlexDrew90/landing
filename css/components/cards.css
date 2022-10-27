@@ -1,0 +1,16 @@
+.cards_reg{
+  border: 1px solid rgb(230,230,230);
+  box-shadow: 0 0 5px rgb(230 230 230);
+  width: 250px;
+  padding: 10px;
+}
+
+.cards_reg:hover{
+  box-shadow: rgb(254, 251, 69);
+}
+
+.cards_reg img{
+  width: 250px;
+  height: 150px;
+  background-size: cover;
+}
